@@ -1,0 +1,1 @@
+{"version":3,"file":"my-new-service.spec.js","sourceRoot":"/","sources":["app/services/my-new-service/my-new-service.spec.ts"],"names":[],"mappings":";;;;;;;;;;;YAeA,kBAAQ,CAAC,sBAAsB,EAAE;gBAE/B,6BAAmB,CAAC,cAAM,OAAA,CAAC,6BAAY,CAAC,EAAd,CAAc,CAAC,CAAC;gBAG1C,YAAE,CAAC,YAAY,EAAE,gBAAM,CAAC,CAAC,6BAAY,CAAC,EAAE,UAAC,OAAoB;gBAE7D,CAAC,CAAC,CAAC,CAAC;YAEN,CAAC,CAAC,CAAC"}
