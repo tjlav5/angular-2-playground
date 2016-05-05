@@ -1,7 +1,6 @@
 import {Component} from 'angular2/core';
 import {RouteConfig, ROUTER_DIRECTIVES} from 'angular2/router';
 import {MyNewComponent} from './components/my-new-component/my-new-component';
-import {MyNewPipe} from './pipes/my-new-pipe/my-new-pipe';
 
 
 @Component({
@@ -9,7 +8,7 @@ import {MyNewPipe} from './pipes/my-new-pipe/my-new-pipe';
   providers: [],
   templateUrl: 'app/ang2.html',
   directives: [ROUTER_DIRECTIVES],
-  pipes: [MyNewPipe]
+  pipes: []
 })
 @RouteConfig([
   {path: '/', name: 'Foo', component: MyNewComponent},

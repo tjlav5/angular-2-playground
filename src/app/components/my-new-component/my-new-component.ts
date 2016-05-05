@@ -1,4 +1,5 @@
 import {Component} from 'angular2/core';
+import {MyNewPipe} from '../../pipes/my-new-pipe/my-new-pipe';
 
 
 @Component({
@@ -7,7 +8,7 @@ import {Component} from 'angular2/core';
   styleUrls: ['app/components/my-new-component/my-new-component.css'],
   providers: [],
   directives: [],
-  pipes: []
+  pipes: [MyNewPipe]
 })
 export class MyNewComponent {
 
